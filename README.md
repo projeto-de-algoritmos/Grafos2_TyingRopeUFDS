@@ -61,5 +61,10 @@ Agora o seu ambiente agora está configurado. Entre na pasta no qual deseje test
 
 Pronto! O código está rodando e os exercícios podem ser testados.
 
+## Vídeo
+
+O vídeo explicando o algoritmo e o funcionamento dele, pode ser encontrado no link a seguir:
+- [Vídeo](https://www.youtube.com/watch?v=YCTEQzRSxyY)
+
 
 
