@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Grafos2_TyingRopeUFDS
 
 **Número da Lista**: 20<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
@@ -64,7 +64,7 @@ Pronto! O código está rodando e os exercícios podem ser testados.
 ## Vídeo
 
 O vídeo explicando o algoritmo e o funcionamento dele, pode ser encontrado no link a seguir:
-- [Vídeo](https://www.youtube.com/watch?v=YCTEQzRSxyY)
+- [Vídeo](assets/videoGrafos2.mp4)
 
 
 
